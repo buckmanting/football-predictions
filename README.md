@@ -4,7 +4,7 @@
 - One point per correct place for 6th-17th
 - Half a point if one place off
 - Three points for the correct winner
-- Two points for each placed prediction 2nd-5th (CL and EL places), bonus point if the correct place
+- Two points for each placed prediction 2nd-5th (CL and EL places)
 - Two points per relegation place, bonus point if the correct place
 
 ## 2021/22 Teams

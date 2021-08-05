@@ -1,5 +1,12 @@
 # Football Predictions
 
+## Premier League points system
+- One point per correct place
+- Half a point if one place off
+- Three points for the correct winner
+- Two points for each placed prediction 2nd-5th (CL and EL places)
+- Two points per relegation place, bonus point if the correct place
+
 ## 2021/22 Teams
 1. Arsenal
 2. Aston Villa

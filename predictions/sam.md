@@ -1,20 +1,20 @@
 1. Manchester City
-1. Manchester United
-1. Liverpool
-1. Chelsea
-1. Leicester
-1. West Ham
-1. Arsenal
-1. Aston Villa
-1. Tottenham Hotspur
-1. Wolves
-1. Everton
-1. Leeds
-1. Southhampton
-1. Brighton
-1. Watford
-1. Burnley
-1. Crystal Palace
-1. Brentford
-1. Newcastle
-1. Norwich
+2. Manchester United
+3. Liverpool
+4. Chelsea
+5. Leicester
+6. West Ham
+7. Arsenal
+8. Aston Villa
+9. Tottenham Hotspur
+10. Wolves
+11. Everton
+12. Leeds
+13. Southhampton
+14. Brighton
+15. Watford
+16. Burnley
+17. Crystal Palace
+18. Brentford
+19. Newcastle
+20. Norwich

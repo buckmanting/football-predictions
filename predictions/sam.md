@@ -10,7 +10,7 @@
 10. Wolves
 11. Everton
 12. Leeds
-13. Southhampton
+13. Southampton
 14. Brighton
 15. Watford
 16. Burnley

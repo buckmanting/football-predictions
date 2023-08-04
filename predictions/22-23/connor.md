@@ -1,0 +1,20 @@
+City
+Liverpool
+Spurs
+Chelsea
+United
+Arsenal
+West Ham
+Newcastle
+Wolves
+Leicester
+Villa
+Palace
+Brighton
+Everton
+Southampton
+Forest
+Fulham
+Bournemouth
+Leeds
+Brentford

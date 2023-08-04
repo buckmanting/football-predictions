@@ -1,0 +1,207 @@
+{
+    "gameweeks": [
+        {
+            "week": 1,
+            "champion": "Manchester United",
+            "clPlaces": [
+                "Chelsea",
+                "Liverpool",
+                "Everton"
+            ],
+            "elPlace": "Brentford",
+            "places": [
+                "Watford",
+                "Brighton and Hove Albion",
+                "Leicester City",
+                "Manchester City",
+                "Newcastle United",
+                "Tottenham Hotspur",
+                "West Ham United",
+                "Aston Villa",
+                "Burnley",
+                "Wolverhampton Wanderers",
+                "Southampton",
+                "Arsenal"
+            ],
+            "relegation": [
+                "Crystal Palace",
+                "Norwich City",
+                "Leeds United"
+            ]
+        },
+        {
+            "week": 2,
+            "champion": "West Ham United",
+            "clPlaces": [
+                "Chelsea",
+                "Liverpool",
+                "Brighton and Hove Albion"
+            ],
+            "elPlace": "Tottenham Hotspur",
+            "places": [
+                "Manchester United",
+                "Everton",
+                "Brentford",
+                "Manchester City",
+                "Aston Villa",
+                "Watford",
+                "Leicester City",
+                "Southampton",
+                "Crystal Palace",
+                "Leeds United",
+                "Wolverhampton Wanderers",
+                "Burnley"
+            ],
+            "relegation": [
+                "Newcastle United",
+                "Arsenal",
+                "Norwich City"
+            ]
+        },
+        {
+            "week": 3,
+            "champion": "West Ham United",
+            "clPlaces": [
+                "Chelsea",
+                "Liverpool",
+                "Brighton and Hove Albion"
+            ],
+            "elPlace": "Tottenham Hotspur",
+            "places": [
+                "Manchester United",
+                "Everton",
+                "Brentford",
+                "Manchester City",
+                "Aston Villa",
+                "Watford",
+                "Leicester City",
+                "Southampton",
+                "Crystal Palace",
+                "Leeds United",
+                "Wolverhampton Wanderers",
+                "Burnley"
+            ],
+            "relegation": [
+                "Newcastle United",
+                "Arsenal",
+                "Norwich City"
+            ]
+        },
+        {
+            "week": 11,
+            "champion": "Chelsea",
+            "clPlaces": [
+                "Manchester City",
+                "West Ham United",
+                "Liverpool"
+            ],
+            "elPlace": "Arsenal",
+            "places": [
+                "Manchester United",
+                "Brighton and Hove Albion",
+                "Wolverhampton Wanderers",
+                "Tottenham Hotspur",
+                "Crystal Palace",
+                "Everton",
+                "Leicester City",
+                "Southampton",
+                "Brentford",
+                "Leeds United",
+                "Aston Villa",
+                "Watford"
+            ],
+            "relegation": [
+                "Newcastle United",
+                "Burnley",
+                "Norwich City"
+            ]
+        },
+        {
+            "week": 32,
+            "champion": "Manchester City",
+            "clPlaces": [
+                "Liverpool",
+                "Chelsea",
+                "Tottenham Hotspur"
+            ],
+            "elPlace": "Arsenal",
+            "places": [
+                "West Ham United",
+                "Manchester United",
+                "Wolverhampton Wanderers",
+                "Crystal Palace",
+                "Leicester City",
+                "Aston Villa",
+                "Southampton",
+                "Brighton and Hove Albion",
+                "Brentford",
+                "Newcastle United",
+                "Leeds United",
+                "Everton"
+            ],
+            "relegation": [
+                "Watford",
+                "Burnley",
+                "Norwich City"
+            ]
+        },
+        {
+            "week": 36,
+            "champion": "Manchester City",
+            "clPlaces": [
+                "Liverpool",
+                "Chelsea",
+                "Arsenal"
+            ],
+            "elPlace": "Tottenham Hotspur",
+            "places": [
+                "Manchester United",
+                "West Ham United",
+                "Wolverhampton Wanderers",
+                "Brighton and Hove Albion",
+                "Crystal Palace",
+                "Aston Villa",
+                "Brentford",
+                "Newcastle United",
+                "Leicester City",
+                "Everton",
+                "Southampton",
+                "Burnley"
+            ],
+            "relegation": [
+                "Leeds United",
+                "Watford",
+                "Norwich City"
+            ]
+        },
+        {
+            "week": 38,
+            "champion": "Manchester City",
+            "clPlaces": [
+                "Liverpool",
+                "Chelsea",
+                "Tottenham Hotspur"
+            ],
+            "elPlace": "Arsenal",
+            "places": [
+                "Manchester United",
+                "West Ham United",
+                "Leicester City",
+                "Brighton and Hove Albion",
+                "Wolverhampton Wanderers",
+                "Newcastle United",
+                "Crystal Palace",
+                "Brentford",
+                "Aston Villa",
+                "Southampton",
+                "Everton",
+                "Leeds United"
+            ],
+            "relegation": [
+                "Burnley",
+                "Watford",
+                "Norwich City"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "predictions": [
+        {
+            "name": "Aaron",
+            "champion": "Manchester City",
+            "clPlaces": [
+                "Manchester United",
+                "Chelsea",
+                "Liverpool"
+            ],
+            "elPlace": "Leicester",
+            "places": [
+                "Tottenham Hotspur",
+                "Arsenal",
+                "Aston Villa",
+                "Everton",
+                "Leeds",
+                "West Ham",
+                "Brentford",
+                "Wolves",
+                "Newcastle",
+                "Crystal Palace",
+                "Southampton",
+                "Watford"
+            ],
+            "relegation": [
+                "Brighton",
+                "Burnley",
+                "Norwich"
+            ]
+        },
+        {
+            "name": "Connor",
+            "champion": "Manchester City",
+            "clPlaces": [
+                "Chelsea",
+                "Manchester United",
+                "Liverpool"
+            ],
+            "elPlace": "Leicester",
+            "places": [
+                "Tottenham Hotspur",
+                "Arsenal",
+                "Everton",
+                "West Ham",
+                "Wolves",
+                "Aston Villa",
+                "Leeds",
+                "Newcastle",
+                "Brentford",
+                "Brighton",
+                "Burnley",
+                "Watford"
+            ],
+            "relegation": [
+                "Southampton",
+                "Crystal Palace",
+                "Norwich"
+            ]
+        },
+        {
+            "name": "Pash",
+            "champion": "Manchester United",
+            "clPlaces": [
+                "Chelsea",
+                "Liverpool",
+                "Manchester City"
+            ],
+            "elPlace": "Tottenham Hotspur",
+            "places": [
+                "Leicester",
+                "Arsenal",
+                "Aston Villa",
+                "West Ham",
+                "Watford",
+                "Everton",
+                "Brentford",
+                "Burnley",
+                "Wolves",
+                "Brighton",
+                "Newcastle",
+                "Leeds"
+            ],
+            "relegation": [
+                "Southampton",
+                "Crystal Palace",
+                "Norwich"
+            ]
+        },
+        {
+            "name": "Sam",
+            "champion": "Manchester City",
+            "clPlaces": [
+                "Manchester United",
+                "Liverpool",
+                "Chelsea"
+            ],
+            "elPlace": "Leicester",
+            "places": [
+                "West Ham",
+                "Arsenal",
+                "Aston Villa",
+                "Tottenham Hotspur",
+                "Wolves",
+                "Everton",
+                "Leeds",
+                "Southampton",
+                "Brighton",
+                "Watford",
+                "Burnley",
+                "Crystal Palace"
+            ],
+            "relegation": [
+                "Brentford",
+                "Newcastle",
+                "Norwich"
+            ]
+        }
+    ]
+}

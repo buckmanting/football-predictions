@@ -1,0 +1,12 @@
+{
+  "name": "score-processor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:v2": "node v2/index.js"
+  },
+  "author": "Aaron Buckley",
+  "license": "MIT"
+}
